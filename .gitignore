@@ -1,2 +1,2 @@
-./src/database.ts
-./src/server.ts
+node_modules
+tmp/*
